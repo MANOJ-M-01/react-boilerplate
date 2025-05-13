@@ -2,7 +2,7 @@
 
 - Node `23.11.0`
 - Yarn `1.22.22`
-- React 19`
+- React `19`
 - Tailwind `4`
 - Eslint
 - Prettier
