@@ -1,6 +1,6 @@
 # React Template 2025
 
-- Node `22.16.0` LTS
+- Node v22.18.0 LTS
 - Yarn `1.22.22`
 - React `19`
 - Tailwind `4`
